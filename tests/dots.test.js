@@ -1,6 +1,5 @@
-import Dots from '../lib/dots.js'
-import assert from 'assert'
-
+const Dots = require('../lib/dots')
+const assert = require('assert')
 
 // Get keys from https://senddotssandbox.com
 
